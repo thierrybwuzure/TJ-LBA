@@ -344,7 +344,7 @@ footer button:hover {
 
     .women,
     .men {
-        width: 160px;
+        width: auto;
     }
 
     .icons p {
