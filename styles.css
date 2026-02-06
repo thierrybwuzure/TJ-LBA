@@ -45,6 +45,7 @@ header {
     width: auto;
     text-align: center;
     background-color: var(--primary-heading-color);
+    margin: 0;
 }
 
 /* Title */
@@ -126,7 +127,7 @@ header h1 {
 /* Hero Picture */
 
 .cta1-picture {
-    width: 500px;
+    width: 400px;
 }
 
 /* Style for Button */
@@ -318,6 +319,7 @@ footer button:hover {
     }
 
     .navbar {
+        flex-direction: column;
         margin-top: 20px;
     }
 
