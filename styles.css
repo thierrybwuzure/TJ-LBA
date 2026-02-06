@@ -127,7 +127,7 @@ header h1 {
 /* Hero Picture */
 
 .cta1-picture {
-    width: 500px;
+    width: 400px;
 }
 
 /* Style for Button */
@@ -312,7 +312,7 @@ footer button:hover {
 }
 
 .shoe2 {
-    width: 350px;
+    width: 500px;
 }
 
 /* Responsive Design */
@@ -349,6 +349,10 @@ footer button:hover {
         text-align: center;
     }
 
+    .cta1-picture {
+        width: 225px;
+    }
+
     .categories-container {
         flex-direction: column;
         width: 90%;
@@ -381,6 +385,10 @@ footer button:hover {
         width: 100%;
         font-weight: 300;
         margin-top: 25px;
+    }
+
+    .shoe2 {
+        width: 195px;
     }
 }
 
