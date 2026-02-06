@@ -176,7 +176,7 @@ button:hover {
     width: 600px;
     height: 200px;
     background-color: var(--button-bg-color);
-    border-radius: 50px;
+    border-radius: 10px;
     color: var(--secondary-text-color);
     margin: 0 auto;
 }
