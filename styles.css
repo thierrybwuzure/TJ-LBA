@@ -91,7 +91,7 @@ header h1 {
 .navbar a:hover {
     text-decoration: none;
     color: var(--primary-heading-color);
-    scale: 1.2;
+    scale: 1.1;
     transition: 0.3s;
 }
 
