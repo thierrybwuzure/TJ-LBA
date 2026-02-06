@@ -127,7 +127,7 @@ header h1 {
 /* Hero Picture */
 
 .cta1-picture {
-    width: 50%;
+    width: 500px;
 }
 
 /* Style for Button */
@@ -309,6 +309,10 @@ footer button {
 footer button:hover {
     background-color: rgb(177, 0, 0);
     color: var(--secondary-text-color);
+}
+
+.shoe2 {
+    width: 500px;
 }
 
 /* Responsive Design */
